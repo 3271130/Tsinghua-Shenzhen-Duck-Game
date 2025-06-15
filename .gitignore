@@ -1,0 +1,32 @@
+# ========== Unity 特定 ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+.sysinfo
+
+# ========== VSCode / Rider 等IDE ==========
+.vscode/
+.idea/
+
+# ========== MonoDevelop ==========
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# ========== OS ==========
+.DS_Store
+Thumbs.db
+
+# ========== Git ==========
+.gitattributes.lock

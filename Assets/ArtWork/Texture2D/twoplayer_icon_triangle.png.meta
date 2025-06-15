@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 6fb90380dc8e0be408cd4c3ba0e519ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: twoplayer_icon_triangle
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 300
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: twoplayer_icon_triangle
+      rect:
+        serializedVersion: 2
+        x: 0.026750982
+        y: 18.07612
+        width: 299.94647
+        height: 263.87256
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.499953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -145.99998, y: 100.987595}
+        - {x: -149.99998, y: 109.987595}
+        - {x: -149.99998, y: 121.987595}
+        - {x: -144.99998, y: 128.9876}
+        - {x: -138.99998, y: 131.9876}
+        - {x: 141.00002, y: 131.9876}
+        - {x: 149.00002, y: 127.987595}
+        - {x: 150.00002, y: 120.987595}
+        - {x: 150.00002, y: 106.9876}
+        - {x: 146.00002, y: 100.987595}
+        - {x: 113.000015, y: 43.987595}
+        - {x: 58.000015, y: -53.0124}
+        - {x: 16.000015, y: -124.012405}
+        - {x: 9.000015, y: -132.0124}
+        - {x: -6.9999847, y: -132.0124}
+        - {x: -15.999985, y: -124.012405}
+        - {x: -34.999985, y: -91.012405}
+      physicsShape:
+      - - {x: 30.000013, y: -98.0124}
+        - {x: 41.000015, y: -79.012405}
+        - {x: 56.000015, y: -53.0124}
+        - {x: 82.000015, y: -8.012405}
+        - {x: 90.000015, y: 5.9875946}
+        - {x: 104.000015, y: 29.987593}
+        - {x: 119.00001, y: 55.987595}
+        - {x: 127.000015, y: 69.987595}
+        - {x: 138.00002, y: 88.987595}
+        - {x: 145.00002, y: 100.987595}
+        - {x: 150.00002, y: 109.987595}
+        - {x: 150.00002, y: 118.98759}
+        - {x: 149.00002, y: 123.987595}
+        - {x: 142.00002, y: 129.9876}
+        - {x: 137.00002, y: 131.9876}
+        - {x: -134.99998, y: 131.9876}
+        - {x: -141.99998, y: 129.9876}
+        - {x: -149.99998, y: 120.98759}
+        - {x: -149.99998, y: 112.987595}
+        - {x: -140.99998, y: 93.987595}
+        - {x: -77.999985, y: -15.012404}
+        - {x: -55.999985, y: -53.0124}
+        - {x: -48.99998, y: -65.012405}
+        - {x: -26.999983, y: -103.012405}
+        - {x: -13.999985, y: -125.012405}
+        - {x: -8.999985, y: -130.0124}
+        - {x: -4.9999843, y: -132.0124}
+        - {x: 2.0000153, y: -132.0124}
+        - {x: 9.000015, y: -130.0124}
+        - {x: 14.000015, y: -125.012405}
+        - {x: 19.000015, y: -117.0124}
+        - {x: 23.000013, y: -110.012405}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c55223feb564e0b9525871c5b5632b8
+      internalID: 21300000
+      vertices:
+      - {x: 299, y: 278}
+      - {x: 300, y: 257}
+      - {x: 300, y: 271}
+      - {x: 296, y: 251}
+      - {x: 291, y: 282}
+      - {x: 263, y: 194}
+      - {x: 208, y: 97}
+      - {x: 166, y: 26}
+      - {x: 159, y: 18}
+      - {x: 143, y: 18}
+      - {x: 134, y: 26}
+      - {x: 115, y: 59}
+      - {x: 11, y: 282}
+      - {x: 5, y: 279}
+      - {x: 4, y: 251}
+      - {x: 0, y: 272}
+      - {x: 0, y: 260}
+      indices: 100000000f0000000e0000000d0000000e0000000f0000000b0000000e0000000d0000000c0000000b0000000d000000040000000b0000000c0000000a0000000b00000004000000090000000a00000004000000080000000900000004000000070000000800000004000000060000000700000004000000050000000600000004000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      twoplayer_icon_triangle: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

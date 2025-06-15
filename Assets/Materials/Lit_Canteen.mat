@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2559462041594078802
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Lit_Canteen
+  m_Shader: {fileID: -6465566751694194690, guid: 0d517f80dd84c47eab267df8282f72ef, type: 3}
+  m_Parent: {fileID: 2100000, guid: 46af2ee9a4e874cff940465e21bbbb3f, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _GatherTexture2D_4c13cc6bcf4d4307b72b2fb37ecf4f5e_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: f8e4745a56cae41cb9f9778c4052d4ad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats: []
+    m_Colors:
+    - Color_64d861fce71044349695d1bac7f2ea98: {r: 0.9150943, g: 0.866295, b: 0.6690548, a: 0}
+    - Color_d3f90b46fa4040c48d4031973961bef6: {r: 0.990566, g: 0.93114305, b: 0.88309896, a: 1}
+  m_BuildTextureStacks: []
